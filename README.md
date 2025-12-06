@@ -409,3 +409,7 @@ Una versión optimizada usaría **un solo punto de decisión** o una cadena clar
 Después de hacer todo este ejercicio, considero que mi comprensión de las promesas en JavaScript mejoró. La analogía de la planta y las horas de luz me ayudó a visualizar mejor qué significa que una promesa se resuelva o se rechace, y también entendí mejor por qué no podemos “resolver” o “rechazar” varias veces. 
 
 El experimento del “código con sesgo” funcionó para mostrarme claramente qué NO se debe hacer, aunque probablemente había formas más sencillas de entender el concepto sin complicarlo tanto. Aun así, el proceso completo me sirvió para reforzar mi entendimiento y mi manera de abordar la IA como una herramienta que permite abordar problemas o situaciones de una manera innovadora, o desde un punto de vista no contemplado anteriormente.
+
+---
+## Recurso visual
+![Recurso visual](./assets/recursovisual.png)
